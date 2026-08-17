@@ -44,7 +44,7 @@ sales-performance-dashboard/
 
 ## Dashboard
 
-**Live URL:** *https://public.tableau.com/app/profile/amrutha.lakshmy.vd/viz/SalesPerformanceDashboard\_17869546372480/SalesPerformanceDashboard?publish=yes*
+**Live URL:** *https://public.tableau.com/app/profile/amrutha.lakshmy.vd/viz/SalesPerformanceDashboard_17869546372480/SalesPerformanceDashboard?publish=yes*
 
 
 
